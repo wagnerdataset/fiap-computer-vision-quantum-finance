@@ -82,7 +82,7 @@ cv_colab_data/
 
 ---
 
-## 🚀 # Visão Geral por Célula — Verificação Facial (Haar / DNN SSD-ResNet10)
+## 🚀 Visão Geral por Célula — Verificação Facial (Haar / DNN SSD-ResNet10)
 
 > Este documento resume, em formato de README, o que **cada célula** do notebook final faz e encerra com um **resumo dos resultados** observados.
 
